@@ -15,8 +15,8 @@ def hopper
           :languages => ["C"]
         }
      }
-	 pry.binding
-	 
+	 binding.pry
+
 	 programmer_hash["grace_hopper"]
 
 end
